@@ -1,6 +1,6 @@
 # pumping-iron
 
-a place for Matt to pump iron.
+a place for Matt and [Dylan](https://github.com/dylnclrk) to pump iron.
 
 ![Image of Arnold Pumping Iron](https://www.bodybuilding.com/fun/images/2014/arnold-blueprint_day19_graphics-1.jpg)
 
