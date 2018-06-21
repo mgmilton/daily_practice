@@ -4,7 +4,7 @@
 
 #### Basics
 
-* [Linked List](./solutions/project-list/linked_list.rb)
+* [Linked List](/solutions/project-list/linked_list.rb)
 * Hash Set
 * Trie
 * Heap
